@@ -1,0 +1,12 @@
+height:weight:35.55555555555556
+
+height:weight:31.020408163265305
+
+height:weight:25.510204081632658
+
+height:weight:25.0
+
+height:weight:36.73094582185492
+
+height:weight:45.13888888888889
+

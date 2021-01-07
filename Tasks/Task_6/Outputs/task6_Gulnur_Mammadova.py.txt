@@ -1,0 +1,18 @@
+Temperature with Celsius(°C): Fahrenheit(°F):  32.0
+Kelvin(K):  273.15
+
+Temperature with Celsius(°C): Fahrenheit(°F):  132.8
+Kelvin(K):  329.15
+
+Temperature with Celsius(°C): Fahrenheit(°F):  235.4
+Kelvin(K):  386.15
+
+Temperature with Celsius(°C): Fahrenheit(°F):  172.4
+Kelvin(K):  351.15
+
+Temperature with Celsius(°C): Fahrenheit(°F):  89.6
+Kelvin(K):  305.15
+
+Temperature with Celsius(°C): Fahrenheit(°F):  300.2
+Kelvin(K):  422.15
+

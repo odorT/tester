@@ -1,0 +1,528 @@
+- Lalayev_Farid
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.574
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
+- Akbar_Huseynzada
+######### Output: #########
+
+cost:16.2
+1.62
+
+cost:9.0
+0.9
+
+cost:68.22
+6.822
+
+cost:115.74
+11.573999999999998
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
+- Aytac_Kazimli
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.574
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
++ Aziz_Ahmadov
+- Balagiz_Orujova
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.573999999999998
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
+- Eldar_Asgarov
+######### Output: #########
+
+Enter the cost of the meal in dollars:Your tax is: 16.2 dollars
+Your cashback is: 1.62 dollars
+
+Enter the cost of the meal in dollars:Your tax is: 9.0 dollars
+Your cashback is: 0.9 dollars
+
+Enter the cost of the meal in dollars:Your tax is: 68.22 dollars
+Your cashback is: 6.82 dollars
+
+Enter the cost of the meal in dollars:Your tax is: 115.74 dollars
+Your cashback is: 11.57 dollars
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
+- Elnur_Guluzade
+######### Output: #########
+
+The cost of a deal:The value-added tax: 16.2
+The cashback: 1.62
+
+The cost of a deal:The value-added tax: 9.0
+The cashback: 0.9
+
+The cost of a deal:The value-added tax: 68.22
+The cashback: 6.82
+
+The cost of a deal:The value-added tax: 115.74
+The cashback: 11.57
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
++ Elshad_Sabziyev
+- Elvin_Mammadov
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.574
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
++ Farid_Ismayilov
+- Fatima_Omarova
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.574
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
++ Fidan_Babayeva
+- Gulnur_Mammadova
+######### Output: #########
+
+The cost of a meal ordered at a restaurant from the user: The value-added tax for the meal:  16.2
+The tax is returned to the customer as a cashback:  1.62
+
+The cost of a meal ordered at a restaurant from the user: The value-added tax for the meal:  9.0
+The tax is returned to the customer as a cashback:  0.9
+
+The cost of a meal ordered at a restaurant from the user: The value-added tax for the meal:  68.22
+The tax is returned to the customer as a cashback:  6.82
+
+The cost of a meal ordered at a restaurant from the user: The value-added tax for the meal:  115.74
+The tax is returned to the customer as a cashback:  11.57
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
++ Khayal_Hasanli
++ Laman_Hasanli
++ Mahammadjan_Mahammadjanov
+- Malik_Akqubayev
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.574
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
++ Mehemmed_Mehdi
++ Nazrin_Fatullali
++ Nigar_Hasanli
+- Nihad_Qiyasli
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.574
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
+- Oktay_Nabili
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.574
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
++ Radmila_Musayeva
+- Ravan_Hajiyev
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.574
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
++ Sakina_Aliyeva
+- Vugar_Abdulaliyev
+######### Output: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.822
+
+115.74
+11.574
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
++ chichak
++ ferid_ceferli
+- tarlan_kazimli
+######### Output: #########
+
+Enter the cost of the mealtax  16.2
+BACK  1.62
+
+Enter the cost of the mealtax  9.0
+BACK  0.9
+
+Enter the cost of the mealtax  68.22
+BACK  6.82
+
+Enter the cost of the mealtax  115.74
+BACK  11.57
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
+- vaqif_mammadzada
+######### Output: #########
+
+cost of the meal:106.2 is the ocst including task
+cashback is  10.62 manats
+
+cost of the meal:59.0 is the ocst including task
+cashback is  5.9 manats
+
+cost of the meal:447.22 is the ocst including task
+cashback is  44.72 manats
+
+cost of the meal:758.74 is the ocst including task
+cashback is  75.87 manats
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################
+- 4/Answers/answer
+######### Output: #########
+
+90
+16.2
+1.62
+
+50
+9.0
+0.9
+
+379
+68.22
+6.822
+
+643
+115.74
+11.573999999999998
+
+######### Answer: #########
+
+16.2
+1.62
+
+9.0
+0.9
+
+68.22
+6.82
+
+115.74
+11.57
+
+###########################

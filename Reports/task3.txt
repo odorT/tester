@@ -1,0 +1,375 @@
++ Lalayev_Farid
+- Akbar_Huseynzada
+######### Output: #########
+
+The number of widgets : The number of gizmos : 449
+
+The number of widgets : The number of gizmos : 0
+
+The number of widgets : The number of gizmos : 7500
+
+The number of widgets : The number of gizmos : 1120000
+
+The number of widgets : The number of gizmos : 18588
+
+The number of widgets : The number of gizmos : 4745478
+
+The number of widgets : The number of gizmos : 29900000
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################
++ Aytac_Kazimli
++ Aziz_Ahmadov
++ Balagiz_Orujova
++ Chichak
+- Eldar_Asgarov
+######### Output: #########
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 449 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 0 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 7500 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 1120000 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 18588 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 4745478 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 29900000 grams
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################
+- Elnur_Guluzade
+######### Output: #########
+
+the number of widgets:the number of gizmos:the total weight of the order: 449
+
+the number of widgets:the number of gizmos:the total weight of the order: 0
+
+the number of widgets:the number of gizmos:the total weight of the order: 7500
+
+the number of widgets:the number of gizmos:the total weight of the order: 1120000
+
+the number of widgets:the number of gizmos:the total weight of the order: 18588
+
+the number of widgets:the number of gizmos:the total weight of the order: 4745478
+
+the number of widgets:the number of gizmos:the total weight of the order: 29900000
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################
++ Elshad_Sabziyev
++ Elvin_Mammadov
++ Farid_Ismayilov
++ Fatima_Omarova
+- Fidan_Babayeva
+######### Output: #########
+
+13
+
+0
+
+300
+
+20000
+
+498
+
+85488
+
+700000
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################
+- Gulnur_Mammadova
+######### Output: #########
+
+How many widgets have been ordered:How many gizmos have been ordered:Total weight: 449
+
+How many widgets have been ordered:How many gizmos have been ordered:Total weight: 0
+
+How many widgets have been ordered:How many gizmos have been ordered:Total weight: 7500
+
+How many widgets have been ordered:How many gizmos have been ordered:Total weight: 1120000
+
+How many widgets have been ordered:How many gizmos have been ordered:Total weight: 18588
+
+How many widgets have been ordered:How many gizmos have been ordered:Total weight: 4745478
+
+How many widgets have been ordered:How many gizmos have been ordered:Total weight: 29900000
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################
++ Khayal_Hasanli
++ Laman_Hasanli
++ Mahammadjan_Mahammadjanov
++ Malik_Akqubayev
++ Mehemmed_Mehdi
+- Nazrin_Fatullali
+######### Output: #########
+
+449
+
+449
+
+449
+
+449
+
+449
+
+449
+
+449
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################
++ Nigar_Hasanli
+- Nihad_Qiyasli
+######### Output: #########
+
+The number of widgets:The number of gizmos:449
+
+The number of widgets:The number of gizmos:0
+
+The number of widgets:The number of gizmos:7500
+
+The number of widgets:The number of gizmos:1120000
+
+The number of widgets:The number of gizmos:18588
+
+The number of widgets:The number of gizmos:4745478
+
+The number of widgets:The number of gizmos:29900000
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################
++ Oktay_nabili
++ Radmila_Musayeva
++ Ravan_Hajiyev
++ Sakina_Aliyeva
++ Vugar_Abdulaliyev
++ ferid_ceferli
+- tarlan_kazimli
+######### Output: #########
+
+Enter widget num:Enter gizmo num:449
+
+Enter widget num:Enter gizmo num:0
+
+Enter widget num:Enter gizmo num:7500
+
+Enter widget num:Enter gizmo num:1120000
+
+Enter widget num:Enter gizmo num:18588
+
+Enter widget num:Enter gizmo num:4745478
+
+Enter widget num:Enter gizmo num:29900000
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################
+- vaqif_mammadzada
+######### Output: #########
+
+how many widgets?how many gizmos?final weight is:  449
+
+how many widgets?how many gizmos?final weight is:  0
+
+how many widgets?how many gizmos?final weight is:  7500
+
+how many widgets?how many gizmos?final weight is:  1120000
+
+how many widgets?how many gizmos?final weight is:  18588
+
+how many widgets?how many gizmos?final weight is:  4745478
+
+how many widgets?how many gizmos?final weight is:  29900000
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################
+- 3/Answers/answer
+######### Output: #########
+
+3
+2
+449
+
+0
+0
+0
+
+100
+0
+7500
+
+0
+10000
+1120000
+
+100
+99
+18588
+
+450
+42069
+4745478
+
+100000
+200000
+29900000
+
+######### Answer: #########
+
+449
+
+0
+
+7500
+
+1120000
+
+18588
+
+4745478
+
+29900000
+
+###########################

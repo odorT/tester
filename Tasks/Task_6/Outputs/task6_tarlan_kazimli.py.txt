@@ -1,0 +1,18 @@
+temp in celsius temp in F  32.0
+temp in K 273.15
+
+temp in celsius temp in F  132.8
+temp in K 329.15
+
+temp in celsius temp in F  235.4
+temp in K 386.15
+
+temp in celsius temp in F  172.4
+temp in K 351.15
+
+temp in celsius temp in F  89.6
+temp in K 305.15
+
+temp in celsius temp in F  300.2
+temp in K 422.15
+

@@ -1,0 +1,15 @@
+  File "Tasks/Task_8/Students/task8_Khayal_Hasanli.py", line 2
+    if a%2=0:
+          ^
+SyntaxError: invalid syntax
+
+  File "Tasks/Task_8/Students/task8_Khayal_Hasanli.py", line 2
+    if a%2=0:
+          ^
+SyntaxError: invalid syntax
+
+  File "Tasks/Task_8/Students/task8_Khayal_Hasanli.py", line 2
+    if a%2=0:
+          ^
+SyntaxError: invalid syntax
+

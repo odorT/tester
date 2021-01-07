@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "Tasks/Task_14/Students/task14_Malik_Akqubayev.py", line 4, in <module>
+    for word in word_list:
+TypeError: 'builtin_function_or_method' object is not iterable
+
+Traceback (most recent call last):
+  File "Tasks/Task_14/Students/task14_Malik_Akqubayev.py", line 4, in <module>
+    for word in word_list:
+TypeError: 'builtin_function_or_method' object is not iterable
+
+Traceback (most recent call last):
+  File "Tasks/Task_14/Students/task14_Malik_Akqubayev.py", line 4, in <module>
+    for word in word_list:
+TypeError: 'builtin_function_or_method' object is not iterable
+
+Traceback (most recent call last):
+  File "Tasks/Task_14/Students/task14_Malik_Akqubayev.py", line 4, in <module>
+    for word in word_list:
+TypeError: 'builtin_function_or_method' object is not iterable
+

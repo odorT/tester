@@ -1,0 +1,6 @@
+palindrome
+
+not palindrome
+
+not palindrome
+

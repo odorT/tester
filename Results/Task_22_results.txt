@@ -1,0 +1,13 @@
+Tasks/Task_22/Outputs/task22_Aziz_Ahmadov.py.txt		
+Tasks/Task_22/Outputs/task22_Elshad_Sabziyev.py.txt		
+Tasks/Task_22/Outputs/task22_Elvin_Mammadov.py.txt		
+Tasks/Task_22/Outputs/task22_Farid_Ismayilov.py.txt		
+Tasks/Task_22/Outputs/task22_Fatima_Omarova.py.txt		
+Tasks/Task_22/Outputs/task22_Fidan_Babayeva.py.txt		
+Tasks/Task_22/Outputs/task22_Khayal_Hasanli.py.txt		
+Tasks/Task_22/Outputs/task22_Mahammadjan_Mahammadjanov.py.txt		
+Tasks/Task_22/Outputs/task22_Radmila_Musayeva.py.txt		
+Tasks/Task_22/Outputs/task22_Sakina_Aliyeva.py.txt		
+Tasks/Task_22/Outputs/task22_Vugar_Abdulaliyev.py.txt		Tasks/Task_22/Answers/answer.txt Tasks/Task_22/Outputs/task22_Vugar_Abdulaliyev.py.txt differ: byte 23, line 1
+
+Tasks/Task_22/Outputs/task22_farid_jafarli.py.txt		

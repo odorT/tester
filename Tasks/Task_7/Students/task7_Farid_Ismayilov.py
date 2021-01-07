@@ -1,0 +1,8 @@
+a=int(input())
+x=int(a/1000)
+x1=int(a- 1000*x)
+y=int(x1/100)
+y1=int(x1- 100*y)
+z=int(y1/10)
+t=int(a%10)
+print(x*y*z*t)

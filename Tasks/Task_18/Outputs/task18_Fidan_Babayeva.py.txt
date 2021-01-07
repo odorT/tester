@@ -1,0 +1,20 @@
+9
+
+-5
+
+Traceback (most recent call last):
+  File "Tasks/Task_18/Students/task18_Fidan_Babayeva.py", line 14, in <module>
+    print(maximum(a, b, c))
+  File "Tasks/Task_18/Students/task18_Fidan_Babayeva.py", line 2, in maximum
+    return n
+NameError: name 'n' is not defined
+
+15
+
+Traceback (most recent call last):
+  File "Tasks/Task_18/Students/task18_Fidan_Babayeva.py", line 14, in <module>
+    print(maximum(a, b, c))
+  File "Tasks/Task_18/Students/task18_Fidan_Babayeva.py", line 2, in maximum
+    return n
+NameError: name 'n' is not defined
+

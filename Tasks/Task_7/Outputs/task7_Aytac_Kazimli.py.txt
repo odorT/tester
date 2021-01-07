@@ -1,0 +1,30 @@
+Traceback (most recent call last):
+  File "Tasks/Task_7/Students/task7_Aytac_Kazimli.py", line 2, in <module>
+    number2 = int(input())
+EOFError: EOF when reading a line
+
+Traceback (most recent call last):
+  File "Tasks/Task_7/Students/task7_Aytac_Kazimli.py", line 2, in <module>
+    number2 = int(input())
+EOFError: EOF when reading a line
+
+Traceback (most recent call last):
+  File "Tasks/Task_7/Students/task7_Aytac_Kazimli.py", line 2, in <module>
+    number2 = int(input())
+EOFError: EOF when reading a line
+
+Traceback (most recent call last):
+  File "Tasks/Task_7/Students/task7_Aytac_Kazimli.py", line 2, in <module>
+    number2 = int(input())
+EOFError: EOF when reading a line
+
+Traceback (most recent call last):
+  File "Tasks/Task_7/Students/task7_Aytac_Kazimli.py", line 2, in <module>
+    number2 = int(input())
+EOFError: EOF when reading a line
+
+Traceback (most recent call last):
+  File "Tasks/Task_7/Students/task7_Aytac_Kazimli.py", line 2, in <module>
+    number2 = int(input())
+EOFError: EOF when reading a line
+

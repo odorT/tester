@@ -1,0 +1,9 @@
+12321
+palindrome
+
+54221
+not palindrome
+
+2141
+not palindrome
+

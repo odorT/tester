@@ -1,0 +1,17 @@
+12
+15
+18
+21
+Traceback (most recent call last):
+  File "Tasks/Task_12/Students/task12_Balagiz_Orujova.py", line 2, in <module>
+    A=int(input())
+EOFError: EOF when reading a line
+
+6
+8
+10
+Traceback (most recent call last):
+  File "Tasks/Task_12/Students/task12_Balagiz_Orujova.py", line 2, in <module>
+    A=int(input())
+EOFError: EOF when reading a line
+

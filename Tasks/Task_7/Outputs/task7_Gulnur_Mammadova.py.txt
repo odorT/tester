@@ -1,0 +1,12 @@
+a four-digit integer: 0
+
+a four-digit integer: 0
+
+a four-digit integer: 16
+
+a four-digit integer: 1
+
+a four-digit integer: 168
+
+a four-digit integer: 0
+

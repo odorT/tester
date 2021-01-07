@@ -1,0 +1,18 @@
+Type degrres Celsius:Degrees Fahrenheit: 32.0
+Degrees Kelvin: 273.15
+
+Type degrres Celsius:Degrees Fahrenheit: 132.8
+Degrees Kelvin: 329.15
+
+Type degrres Celsius:Degrees Fahrenheit: 235.4
+Degrees Kelvin: 386.15
+
+Type degrres Celsius:Degrees Fahrenheit: 172.4
+Degrees Kelvin: 351.15
+
+Type degrres Celsius:Degrees Fahrenheit: 89.6
+Degrees Kelvin: 305.15
+
+Type degrres Celsius:Degrees Fahrenheit: 300.2
+Degrees Kelvin: 422.15
+

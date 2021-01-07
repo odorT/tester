@@ -1,0 +1,12 @@
+banana
+3
+
+qwerty
+<built-in function id>
+
+2020
+3
+
+william
+1
+

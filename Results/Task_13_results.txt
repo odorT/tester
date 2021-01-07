@@ -1,0 +1,22 @@
+Tasks/Task_13/Outputs/task13_Aziz_Ahmadov.py.txt		
+Tasks/Task_13/Outputs/task13_Chichak_Bairam.py.txt		
+Tasks/Task_13/Outputs/task13_Eldar_Asgarov.py.txt		
+Tasks/Task_13/Outputs/task13_Elvin_Mammadov.py.txt		
+Tasks/Task_13/Outputs/task13_Farid_Ismayilov.py.txt		
+Tasks/Task_13/Outputs/task13_Fatima_Omarova.py.txt		Tasks/Task_13/Answers/answer.txt Tasks/Task_13/Outputs/task13_Fatima_Omarova.py.txt differ: byte 1, line 1
+
+Tasks/Task_13/Outputs/task13_Fidan_Babayeva.py.txt		
+Tasks/Task_13/Outputs/task13_Gulnur_Mammadova.py.txt		
+Tasks/Task_13/Outputs/task13_Khayal_Hasanli.py.txt		
+Tasks/Task_13/Outputs/task13_Laman_Hasanli.py.txt		
+Tasks/Task_13/Outputs/task13_Mahammadjan_Mahammadjanov.py.txt		
+Tasks/Task_13/Outputs/task13_Malik_Akqubayev.py.txt		
+Tasks/Task_13/Outputs/task13_Mehemmed_Mehdi.py.txt		
+Tasks/Task_13/Outputs/task13_Oktay_Nabili.py.txt		
+Tasks/Task_13/Outputs/task13_Radmila_Musayeva.py.txt		Tasks/Task_13/Answers/answer.txt Tasks/Task_13/Outputs/task13_Radmila_Musayeva.py.txt differ: byte 2, line 1
+
+Tasks/Task_13/Outputs/task13_Ravan_Hajiyev.py.txt		
+Tasks/Task_13/Outputs/task13_Sakina_Aliyeva.py.txt		
+Tasks/Task_13/Outputs/task13_Vugar_Abdulaliyev.py.txt		
+Tasks/Task_13/Outputs/task13_ferid_ceferli.py.txt		
+Tasks/Task_13/Outputs/task13_tarlan_kazimli.py.txt		

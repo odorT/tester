@@ -1,0 +1,44 @@
+Tasks/Task_6/Outputs/Task6_Lalayev_Farid.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/Task6_Lalayev_Farid.py.txt differ: byte 14, line 4
+
+Tasks/Task_6/Outputs/task6_Akbar_Huseynzada.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_Akbar_Huseynzada.py.txt differ: byte 1, line 1
+
+Tasks/Task_6/Outputs/task6_Aytac_Kazimli.py.txt		
+Tasks/Task_6/Outputs/task6_Aziz_Ahmadov.py.txt		
+Tasks/Task_6/Outputs/task6_Balagiz_Orujova.py.txt		
+Tasks/Task_6/Outputs/task6_Chichak_Bairam.py.txt		
+Tasks/Task_6/Outputs/task6_Eldar_Asgarov.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_Eldar_Asgarov.py.txt differ: byte 1, line 1
+
+Tasks/Task_6/Outputs/task6_Elnur_Guluzade.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_Elnur_Guluzade.py.txt differ: byte 1, line 1
+
+Tasks/Task_6/Outputs/task6_Elshad_Sabziyev.py.txt		
+Tasks/Task_6/Outputs/task6_Elvin_Mammadov.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_Elvin_Mammadov.py.txt differ: byte 1, line 1
+
+Tasks/Task_6/Outputs/task6_Farid_Ismayilov.py.txt		
+Tasks/Task_6/Outputs/task6_Fatima_Omarova.py.txt		
+Tasks/Task_6/Outputs/task6_Fidan_Babayeva.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_Fidan_Babayeva.py.txt differ: byte 14, line 4
+
+Tasks/Task_6/Outputs/task6_Gulnur_Mammadova.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_Gulnur_Mammadova.py.txt differ: byte 1, line 1
+
+Tasks/Task_6/Outputs/task6_Khayal_Hasanli.py.txt		
+Tasks/Task_6/Outputs/task6_Laman_Hasanli.py.txt		
+Tasks/Task_6/Outputs/task6_Mahammadjan_Mahammadjanov.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_Mahammadjan_Mahammadjanov.py.txt differ: byte 3, line 1
+
+Tasks/Task_6/Outputs/task6_Malik_Akqubayev.py.txt		
+Tasks/Task_6/Outputs/task6_Mehemmed_Mehdi.py.txt		
+Tasks/Task_6/Outputs/task6_Nazrin_Fatullali.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_Nazrin_Fatullali.py.txt differ: byte 1, line 1
+
+Tasks/Task_6/Outputs/task6_Nigar_Hasanli.py.txt		
+Tasks/Task_6/Outputs/task6_Nihad_Qiyasli.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_Nihad_Qiyasli.py.txt differ: byte 3, line 1
+
+Tasks/Task_6/Outputs/task6_Oktay_Nabili.py.txt		
+Tasks/Task_6/Outputs/task6_Radmila_Musayeva.py.txt		
+Tasks/Task_6/Outputs/task6_Ravan_Hajiyev.py.txt		
+Tasks/Task_6/Outputs/task6_Sakina_Aliyeva.py.txt		
+Tasks/Task_6/Outputs/task6_Vugar_Abdulaliyev.py.txt		
+Tasks/Task_6/Outputs/task6_ferid_ceferli.py.py.txt		
+Tasks/Task_6/Outputs/task6_tarlan_kazimli.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_tarlan_kazimli.py.txt differ: byte 1, line 1
+
+Tasks/Task_6/Outputs/task6_vaqif_mammadzada.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6_vaqif_mammadzada.py.txt differ: byte 1, line 1
+
+Tasks/Task_6/Outputs/task6tahirəskərli.py.txt		Tasks/Task_6/Answers/answer.txt Tasks/Task_6/Outputs/task6tahirəskərli.py.txt differ: byte 1, line 1
+

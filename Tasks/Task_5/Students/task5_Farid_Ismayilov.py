@@ -1,0 +1,5 @@
+a=float(input())
+b=float(input())
+bmi=b/(a*a)
+bmi=float(bmi)
+print(round(bmi,2))

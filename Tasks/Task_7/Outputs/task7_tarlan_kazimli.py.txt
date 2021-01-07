@@ -1,0 +1,12 @@
+insert 4 digit num 0
+
+insert 4 digit num 0
+
+insert 4 digit num 16
+
+insert 4 digit num 1
+
+insert 4 digit num 168
+
+insert 4 digit num 0
+

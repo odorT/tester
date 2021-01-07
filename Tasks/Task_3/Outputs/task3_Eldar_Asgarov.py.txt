@@ -1,0 +1,14 @@
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 449 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 0 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 7500 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 1120000 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 18588 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 4745478 grams
+
+Enter the number of widgets:Enter the number of gizmos:The total weight of the order is 29900000 grams
+

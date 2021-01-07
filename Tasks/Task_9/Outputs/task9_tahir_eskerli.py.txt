@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "Tasks/Task_9/Students/task9_tahir_eskerli.py", line 2, in <module>
+    b=int(input())
+EOFError: EOF when reading a line
+
+Traceback (most recent call last):
+  File "Tasks/Task_9/Students/task9_tahir_eskerli.py", line 2, in <module>
+    b=int(input())
+EOFError: EOF when reading a line
+
+Traceback (most recent call last):
+  File "Tasks/Task_9/Students/task9_tahir_eskerli.py", line 2, in <module>
+    b=int(input())
+EOFError: EOF when reading a line
+

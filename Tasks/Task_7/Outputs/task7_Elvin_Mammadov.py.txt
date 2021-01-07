@@ -1,0 +1,12 @@
+Enter a four-digit integer0
+
+Enter a four-digit integer0
+
+Enter a four-digit integer16
+
+Enter a four-digit integer1
+
+Enter a four-digit integer168
+
+Enter a four-digit integer0
+

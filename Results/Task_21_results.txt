@@ -1,0 +1,14 @@
+Tasks/Task_21/Outputs/task21_Aziz_Ahmadov.py.txt		
+Tasks/Task_21/Outputs/task21_Elshad_Sabziyev.py.txt		
+Tasks/Task_21/Outputs/task21_Elvin_Mammadov.py.txt		
+Tasks/Task_21/Outputs/task21_Farid_Ismayilov.py.txt		
+Tasks/Task_21/Outputs/task21_Fatima_Omarova.py.txt		
+Tasks/Task_21/Outputs/task21_Fidan_Babayeva.py.txt		
+Tasks/Task_21/Outputs/task21_Khayal_Hasanli.py.txt		
+Tasks/Task_21/Outputs/task21_Mahammadjan_Mahammadjanov.py.txt		
+Tasks/Task_21/Outputs/task21_Malik_Akqubayev.py.txt		
+Tasks/Task_21/Outputs/task21_Radmila_Musayeva.py.txt		
+Tasks/Task_21/Outputs/task21_Sakina_Aliyeva.py.txt		
+Tasks/Task_21/Outputs/task21_Vugar_Abdulaliyev.py.txt		
+Tasks/Task_21/Outputs/task21_farid_jafarli.py.txt		Tasks/Task_21/Answers/answer.txt Tasks/Task_21/Outputs/task21_farid_jafarli.py.txt differ: byte 1, line 1
+

@@ -1,0 +1,18 @@
+isosceles
+Traceback (most recent call last):
+  File "Tasks/Task_10/Students/task10_Balagiz_Orujova.py", line 2, in <module>
+    a=int(input())
+EOFError: EOF when reading a line
+
+scalene
+Traceback (most recent call last):
+  File "Tasks/Task_10/Students/task10_Balagiz_Orujova.py", line 2, in <module>
+    a=int(input())
+EOFError: EOF when reading a line
+
+equilateral
+Traceback (most recent call last):
+  File "Tasks/Task_10/Students/task10_Balagiz_Orujova.py", line 2, in <module>
+    a=int(input())
+EOFError: EOF when reading a line
+

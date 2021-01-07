@@ -1,0 +1,25 @@
+Traceback (most recent call last):
+  File "Tasks/Task_18/Students/task18_farid_jafarli.py", line 1, in <module>
+    a=int(input())
+ValueError: invalid literal for int() with base 10: '7 8 9'
+
+Traceback (most recent call last):
+  File "Tasks/Task_18/Students/task18_farid_jafarli.py", line 1, in <module>
+    a=int(input())
+ValueError: invalid literal for int() with base 10: '-5 -8 -15'
+
+Traceback (most recent call last):
+  File "Tasks/Task_18/Students/task18_farid_jafarli.py", line 1, in <module>
+    a=int(input())
+ValueError: invalid literal for int() with base 10: '6 6 6'
+
+Traceback (most recent call last):
+  File "Tasks/Task_18/Students/task18_farid_jafarli.py", line 1, in <module>
+    a=int(input())
+ValueError: invalid literal for int() with base 10: '0 -2 15'
+
+Traceback (most recent call last):
+  File "Tasks/Task_18/Students/task18_farid_jafarli.py", line 1, in <module>
+    a=int(input())
+ValueError: invalid literal for int() with base 10: '-2 -2 -1254'
+

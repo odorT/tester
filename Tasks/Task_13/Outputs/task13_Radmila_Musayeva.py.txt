@@ -1,0 +1,6 @@
+polindrome
+
+not polindrome
+
+not polindrome
+

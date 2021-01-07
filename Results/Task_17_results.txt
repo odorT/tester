@@ -1,0 +1,15 @@
+Tasks/Task_17/Outputs/task17.Chichak.Bairam.py.txt		
+Tasks/Task_17/Outputs/task17_Ali_Ibrahimov.py.txt		
+Tasks/Task_17/Outputs/task17_Aziz_Ahmadov.py.txt		
+Tasks/Task_17/Outputs/task17_Eldar_Asgarov.py.txt		
+Tasks/Task_17/Outputs/task17_Elvin_Mammadov.py.txt		
+Tasks/Task_17/Outputs/task17_Farid_Ismayilov.py.txt		
+Tasks/Task_17/Outputs/task17_Fatima_Omarova.py.txt		
+Tasks/Task_17/Outputs/task17_Fidan_Babayeva.py.txt		
+Tasks/Task_17/Outputs/task17_Khayal_Hasanli.py.txt		
+Tasks/Task_17/Outputs/task17_Laman_Hasanli.py.txt		
+Tasks/Task_17/Outputs/task17_Mahammadjan_Mahammadjanov.py.txt		
+Tasks/Task_17/Outputs/task17_Mehemmed_Mehdi.py.txt		
+Tasks/Task_17/Outputs/task17_Radmila_Musayeva.py.txt		
+Tasks/Task_17/Outputs/task17_Sakina_Aliyeva.py.txt		
+Tasks/Task_17/Outputs/task17_Vugar_Abdulaliyev.py.txt		

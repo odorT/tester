@@ -1,0 +1,27 @@
+Your weight:Traceback (most recent call last):
+  File "Tasks/Task_5/Students/task5_Elnur_Guluzade.py", line 1, in <module>
+    a = int(input("Your weight:"))
+ValueError: invalid literal for int() with base 10: '1.5'
+
+Your weight:Traceback (most recent call last):
+  File "Tasks/Task_5/Students/task5_Elnur_Guluzade.py", line 1, in <module>
+    a = int(input("Your weight:"))
+ValueError: invalid literal for int() with base 10: '1.75'
+
+Your weight:Traceback (most recent call last):
+  File "Tasks/Task_5/Students/task5_Elnur_Guluzade.py", line 1, in <module>
+    a = int(input("Your weight:"))
+ValueError: invalid literal for int() with base 10: '1.4'
+
+Your weight:Your height:BMI: 0.0 kq/m**2
+
+Your weight:Traceback (most recent call last):
+  File "Tasks/Task_5/Students/task5_Elnur_Guluzade.py", line 1, in <module>
+    a = int(input("Your weight:"))
+ValueError: invalid literal for int() with base 10: '1.65'
+
+Your weight:Traceback (most recent call last):
+  File "Tasks/Task_5/Students/task5_Elnur_Guluzade.py", line 1, in <module>
+    a = int(input("Your weight:"))
+ValueError: invalid literal for int() with base 10: '1.2'
+
