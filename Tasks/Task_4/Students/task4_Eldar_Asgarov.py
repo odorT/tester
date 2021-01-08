@@ -1,5 +1,0 @@
-cost=float(input("Enter the cost of the meal in dollars:"))
-t=round(cost*18/100,2)
-c=round(t*10/100,2)
-print("Your tax is:" ,t,"dollars")
-print("Your cashback is:",c,"dollars")

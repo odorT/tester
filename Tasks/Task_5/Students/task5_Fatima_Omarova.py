@@ -1,5 +1,0 @@
-a = float(input())
-b = float(input())
-ans = b/(a**2)
-ans = round(ans,2)
-print(ans)

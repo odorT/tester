@@ -1,5 +1,0 @@
-cost = int(input())
-tax = round(cost*0.18, 2)
-cb = round(tax*0.1, 2)
-print(tax)
-print(cb)

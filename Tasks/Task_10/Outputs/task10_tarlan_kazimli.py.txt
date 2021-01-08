@@ -1,6 +1,0 @@
-isosceles
-
-scalene
-
-equilateral
-

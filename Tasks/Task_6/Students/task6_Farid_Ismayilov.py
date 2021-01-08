@@ -1,5 +1,0 @@
-cel=float(input())
-fah=float(9*cel/5+32)
-kel=float(cel+273.15)
-print(fah)
-print(kel)

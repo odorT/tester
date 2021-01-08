@@ -1,8 +1,0 @@
-python3: can't open file 'Tasks/Task_4/Students/task4_Akbar_Huseynzada.py.txt': [Errno 2] No such file or directory
-
-python3: can't open file 'Tasks/Task_4/Students/task4_Akbar_Huseynzada.py.txt': [Errno 2] No such file or directory
-
-python3: can't open file 'Tasks/Task_4/Students/task4_Akbar_Huseynzada.py.txt': [Errno 2] No such file or directory
-
-python3: can't open file 'Tasks/Task_4/Students/task4_Akbar_Huseynzada.py.txt': [Errno 2] No such file or directory
-
