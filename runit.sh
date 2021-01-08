@@ -4,7 +4,7 @@ if [[ $1 == "-h" || $1 == "--help" ]]; then
     echo "runit.sh is an automated script that calls all important scripts to get Reports."
     echo -e " Usage:\n\t./runit.sh [option] [task start number] [task end number]"
     echo -e " Example:\n\t./runit.sh\tIt will automate all tasks and create reports of all tasks"
-    echo -e " Example:\n\t./runit.sh 4 10\tIt will automate all tasks and create reports of task 4 to task 10"
+    echo -e " \t./runit.sh 4 10\tIt will automate all tasks and create reports of task 4 to task 10"
     exit
 fi
 
