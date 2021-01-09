@@ -23,5 +23,5 @@ source ./compiler.sh $starts $ends
 echo "result_generator.sh in progress"
 source ./result_generator.sh
 
-echo "analyze.sh in progress"
+echo "analyzer.sh in progress"
 source ./analyzer.sh $starts $ends

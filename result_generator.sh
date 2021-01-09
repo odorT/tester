@@ -10,7 +10,6 @@ if [[ "$1" == "-h" || "$1" == "--help" ]]; then
     exit 0
 fi
 
-echo "."
 for task in Tasks/*; do
     
     touch "$task"_results.txt
@@ -23,7 +22,7 @@ for task in Tasks/*; do
             echo "" >> "$task"_results.txt
         done
     done
-	echo "."
+	echo "$task" | cut -d "/" -f2
 	mv "$task"_results.txt Results/
 done
 echo "Done"

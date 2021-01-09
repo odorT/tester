@@ -24,6 +24,6 @@ for num in $(seq "$2" -1 "$1"); do
             fi
         done
     done
-    echo "."
+    echo "Task_$num"
 done
 echo "Done"

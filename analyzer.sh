@@ -17,9 +17,6 @@ fi
 for i in $(seq "$1" "$2"); do
 	if [ -z "${i##*[!0-9]*}" ]; then
 		echo "Error: Not a number" >&2; exit 2
-	
-	elif [[ $i -gt $(ls Tasks/ | wc -l) ]]; then
-		echo "There is no Task_$i in Tasks/ directory" >&2; exit 3
 	fi
 
 	touch Reports/task"$i".txt

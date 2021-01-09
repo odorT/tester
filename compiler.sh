@@ -28,6 +28,6 @@ for task in $(seq "$1" "$2"); do
         done
         mv "$student.txt" "$path"/Outputs/
     done
-    echo "."
+    echo "Task_$task"
 done
 echo Done
