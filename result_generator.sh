@@ -10,10 +10,6 @@ if [[ "$1" == "-h" || "$1" == "--help" ]]; then
     exit 0
 fi
 
-if [[ $# != 0 ]]; then
-    echo Script doesn\'t need any arguments
-fi
-
 echo "."
 for task in Tasks/*; do
     
