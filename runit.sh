@@ -12,16 +12,24 @@ task_num=$(ls Tasks/ | wc -l)
 starts=${1:-1}
 ends=${2:-"$task_num"}
 
-echo "from task "$starts" to task "$ends""
+if [[ "$3" == "-v" || "$3" == "--verbose" ]]; then
+    echo "from task "$starts" to task "$ends""
 
-echo "locator.sh in progress"
-source ./locator.sh $starts $ends
+    echo "locator.sh locating all files from Students/ folder to Tasks_Task_<num>/Students"
+    source ./locator.sh $starts $ends
 
-echo "compile.sh in progress"
-source ./compiler.sh $starts $ends
+    echo "compile.sh running and saving outputs in Tasks/Task_<num>/Outputs"
+    source ./compiler.sh $starts $ends
 
-echo "result_generator.sh in progress"
-source ./result_generator.sh
+    echo "result_generator.sh generating results file in Results/ folder"
+    source ./result_generator.sh
 
-echo "analyzer.sh in progress"
-source ./analyzer.sh $starts $ends
+    echo "analyzer.sh creating final reports of codes"
+    source ./analyzer.sh $starts $ends
+else
+    echo "from task "$starts" to task "$ends""
+    source ./locator.sh $starts $ends
+    source ./compiler.sh $starts $ends
+    source ./result_generator.sh
+    source ./analyzer.sh $starts $ends
+fi

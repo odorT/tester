@@ -1,1 +1,0 @@
-Tasks/Task_0/Outputs/task0_name_surname.py.txt		

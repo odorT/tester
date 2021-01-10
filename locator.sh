@@ -1,5 +1,7 @@
 #!/bin/bash 
 
+# Fix the the bug related to wrong locating files
+
 if [[ "$1" == "-h" || "$1" == "--help" ]]; then
     echo "The script takes files from Students/ folder and places them to Tasks/ folder according to task numbers"
     echo " Usage:"
@@ -19,7 +21,7 @@ fi
 for num in $(seq "$2" -1 "$1"); do    
     for student in Students/*; do
         for task in $student/*; do
-            if [[ "$task" == *"$num"* && "$task" != *"checked"* ]]; then
+            if [[ "$task" =~ "ask"$num"_" && "$task" != *"checked"* ]]; then
                 mv $task Tasks/Task_$num/Students
             fi
         done

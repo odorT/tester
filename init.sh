@@ -7,10 +7,15 @@ if [[ "$1" == "-h" || "$1" == "--help" ]]; then
     echo -e "\t.init.sh 1 2 3\tIt will create Task_1 Task_2 Task_3 folders with its subdirectories in Tasks folder"
     exit
 fi
-for i in $@; do
-    mkdir Tasks/Task_"$i"
-    mkdir Tasks/Task_"$i"/Answers
-    mkdir Tasks/Task_"$i"/Outputs
-    mkdir Tasks/Task_"$i"/Inputs
-    mkdir Tasks/Task_"$i"/Students
+
+mkdir Reports/ Results/ Tasks/ 2> /dev/null
+
+for task in $(seq "$1" "$2"); do
+    path=Tasks/Task_"$task"
+
+    mkdir "$path"
+    mkdir "$path"/Answers
+    mkdir "$path"/Students
+    mkdir "$path"/Outputs
+    mkdir "$path"/Inputs
 done
