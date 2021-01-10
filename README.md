@@ -27,3 +27,10 @@ Following example will create Reports/ , Results/ , and Tasks/ folders. Tasks fo
 ```
 ./init.sh 1 3
 ```
+### 2. Run checker.sh
+For testing codes you should have test cases and the sample answers of them. For creating them, change directory to proper Task folder. For input cases, change directory to Inputs/ folder. Here, create input.txt files with test case in it. Following example indicates how it should be done for Task\_1
+```
+cd Tasks/Task_1/Inputs
+touch input1.txt input2.txt
+```
+Note that you can create multiple input cases. After that change directory to Answers folder
