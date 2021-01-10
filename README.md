@@ -9,15 +9,16 @@ tester is a tool for automatically checking multiple codes with multiple test ca
 1. Just download source code to local machine
 
 ## Usage
-You should upload a folder named "Students" to tester/. This folder should have subdirectories with names like following:
+### 1. You should upload a folder named "Students" to tester/.
+This folder should have subdirectories with names like following:
 ```
 Kamran_Karimov_Tasks
 Name_Surname_Tasks
 ```
-And those directories *must* have files like following:
+And those directories **must** have files like following:
 ```
 task1_kamran_karimov.py
 task10_name_surname.py
 ```
-*If tasks are named different compared to examples above, program will not work properly in most cases.*
+**If tasks are named different compared to examples above, program will not work properly in most cases.**
 
