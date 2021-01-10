@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 if [[ "$1" == "-h" ]]; then
-	echo "This script compiles (actually runs) and saves python codes from Students/ to Outputs/ folder."
+	echo "This script compiles (actually runs) and saves the outputs of python codes from Tasks/Task_<num>Students/ to Tasks/Task_<num>/Outputs/ folder."
 	echo " Usage:"
 	echo -e "\t./compiler.sh [option] (task number to start) (task number to finish)"
 	echo " Example:"

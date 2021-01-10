@@ -1,10 +1,13 @@
 #!/bin/bash
 
 if [[ $1 == "-h" || $1 == "--help" ]]; then
-    echo "runit.sh is an automated script that calls all important scripts to get Reports."
+    echo "runit.sh is an automated script that calls all important scripts to get reports. Check Reports/ folder for them."
     echo -e " Usage:\n\t./runit.sh [option] [task start number] [task end number]"
     echo -e " Example:\n\t./runit.sh\tIt will automate all tasks and create reports of all tasks"
+    echo -e " \t./runit.sh -h\tIt will show the help page"
+    echo -e " \t./runit.sh -v\tIt will show all execution messages"
     echo -e " \t./runit.sh 4 10\tIt will automate all tasks and create reports of task 4 to task 10"
+    echo -e " \t./runit.sh 5 5\tIt will automate all tasks and create report of task 5"
     exit
 fi
 

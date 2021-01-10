@@ -6,7 +6,7 @@ if [[ "$1" == "-h" || "$1" == "--help" ]]; then
     echo -e "\t./result_generator.sh [option]"
     echo " Example:"
     echo -e "\t./result_generator.sh -h\tIt will show the help page"
-    echo -e "\t./result_generator.sh\tIt will generate results and update all files"
+    echo -e "\t./result_generator.sh\tIt will generate results and update all files in Results/ folder"
     exit 0
 fi
 
