@@ -21,4 +21,9 @@ task1_kamran_karimov.py
 task10_name_surname.py
 ```
 **If tasks are named different compared to examples above, program will not work properly in most cases.**
-
+### 2. Run init.sh <num1> <num2>
+init.sh will create create necessary folders. Also, it will create task folders starting from <num1> to <num2>
+Following example will create Reports/ , Results/ , and Tasks/ folders. Tasks folder will include Task\_1, Task\_2 and Task\_3 subfolders.
+```
+./init.sh 1 3
+```
