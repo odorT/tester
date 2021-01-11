@@ -69,3 +69,30 @@ After all, run checker.sh
 ```
 ./checker.sh
 ```
+You can specify which Task folders to check. By default without any arguments it will check all Task folders. For example, following example will check only Task_1 folder:
+```
+./checker.sh 1 1
+```
+### 3. Run runit.sh
+runit.sh will
+1. (locator.sh) locate tasks by their task numbers from Students/ folder to Tasks/ folder
+2. (compiler.sh) run and save the outputs of codes to Tasks/Outputs folder
+3. (result_generator.sh) compare answer.txt with the outputs files and save the differences in Results/ folder.
+4. (analyzer.sh) create analyzed reports in Reports/ folder. Lines that start with '+' sign indicates that the code is correct. If the output and answer files are different, it will show both of them to check the output manually.
+For all of the above, simply run:
+```
+./runit.sh
+```
+By default it will check all Tasks. If you want to specify which Tasks to check, run following:
+```
+./runit.sh 1 2
+```
+The example above will create reports based on Task_1 and Task_2
+
+
+## Notes
+1. It is suggested to start task numbers from 1. (e.g. Task_1 Task_2 Task_3 ...)
+2. Strictly follow the rules of task file names and task folder names.
+    2.1 Task folder example: Name_Surname_Tasks
+    2.2 Task file example: task1_name_surname_Tasks
+
