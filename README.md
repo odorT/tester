@@ -93,6 +93,6 @@ The example above will create reports based on Task_1 and Task_2
 ## Notes
 1. It is suggested to start task numbers from 1. (e.g. Task_1 Task_2 Task_3 ...)
 2. Strictly follow the rules of task file names and task folder names.
-    2.1 Task folder example: Name_Surname_Tasks
-    2.2 Task file example: task1_name_surname_Tasks
-    2.3 You can check help pages for more details and usage examples.(e.g. init.sh -h)
+2.1 Task folder example: Name_Surname_Tasks
+2.2 Task file example: task1_name_surname_Tasks
+3 You can check help pages for more details and usage examples.(e.g. init.sh -h)
