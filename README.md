@@ -42,7 +42,7 @@ Note that you can create multiple input cases. After that change directory to An
 cd Tasks/Task_1/Asnwers
 touch answer.txt
 ```
-**NOTE** Let's assume that we have python code which finds the product of two integer inputs, and we have two input cases like following:**
+**NOTE** Let's assume that we have python code which finds the product of two integer inputs, and we have two input cases like following:
 code:
 ```
 print(int(input()) + int(input()))
@@ -57,7 +57,7 @@ input2.txt:
 3
 4
 ```
-**Note that in answer.txt you should put new lines after each answer(even after last one). Following that, the answer.txt should be like following:
+**Note that in answer.txt you should put new lines after each answer(even after last one). Following that, the answer.txt should be like following:**
 ```
 2
 
