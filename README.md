@@ -42,7 +42,7 @@ Note that you can create multiple input cases. After that change directory to An
 cd Tasks/Task_1/Asnwers
 touch answer.txt
 ```
-**NOTE** Let's assume that we have python code which finds the product of two integer inputs, and we have two input cases like following:
+**NOTE** Let's assume that we have python code which finds the product of two integer inputs, and we have two input cases like following:**
 code:
 ```
 print(int(input()) + int(input()))
